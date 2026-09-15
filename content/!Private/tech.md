@@ -1,5 +1,7 @@
 ---
 draft: "true"
+tags:
+  - Private
 ---
 ```
 For updating page:

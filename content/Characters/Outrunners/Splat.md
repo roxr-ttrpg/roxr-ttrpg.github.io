@@ -12,7 +12,7 @@ Before the Research Station crashed into [[Kleio Prime]], Splat was reassigned t
 Splat was one of very few known survivors of this incident.
 
 >*This one's a survivor of that space station accident. Has a history with the Maliwan tech the Suns are running. Bit unhinged but she seems capable, and that's what matters.*
-- *[[Giff Bigstar]]'s Datapad*
+- ***[[Giff Bigstar]]'s Datapad***
 
 ![[Splat Torso.png|300]]![[Splat Full.png|300]]
 - **Splat**

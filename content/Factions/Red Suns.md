@@ -10,17 +10,14 @@ The Red Suns are a gang operating from the city of [[New Paradise]], but who hav
 
 After the crash landing of [[Research Station KlS-01]], the Red Suns were able to salvage most of the technology from the wreckage. It is speculated that this was the central reason for their sudden increase in violent activity.
 It is also known that the Red Suns are in the possession of an [[The Relic|Eldest relic]], originally found by archaeologists under the [[One Great Sea]]. This relic is also speculated to be a source of the Red Suns' growing power.
-
 ##### Notable Members:
 - [[Beastmaster|"Beastmaster"]], a [[Zorbrak]] mercenary.
 - [[Firebrand|"Firebrand"]], an [[Oozoid]] mercenary.
 - An [[Unknown Raizo|Unknown]] [[Raizo]].
-
 ##### Associated Locations:
 - [[77th Street]], a main street of [[New Paradise]] often blockaded by the Red Suns and used as a route for various supply convoys.
 - [[Red Suns Mod Shop|"The Mod Shop"]], a safehouse used by the Red Suns to modify civilian gravcars with various weapons and armor.
 - [[Red Suns Warehouse|"The Warehouse"]], an under-construction facility nestled underneath the mountains of the badlands of  [[Kleio Prime]]. 
-
 ##### Key Dates:
 - `██/██/████`: The Red Suns were repeatedly attacked by [[The Outrunners]], [[Giff Bigstar]] and [[Vermina Sanguinar]] throughout the course of the calendar day;
 	- `0700 HOURS`: The Red Suns blockade on [[77th Street]] was assailed by [[The Outrunners]]. One mercenary and three footsoldiers were later found dead at the scene. No civilians were harmed.

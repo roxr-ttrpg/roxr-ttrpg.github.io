@@ -3,9 +3,8 @@ tags:
   - Type/Faction
   - Faction/Nexus_Consortium
 ---
->The Nexus Consortium is a collection of the biggest interstellar mega-corporations in the galaxy that have joined together to achieve the shared goal of maximizing their collective profits. These companies have brought a tremendous amount of comfort and convenience to the Stardust Rhapsody, even effectively establishing the general galactic culture of consumerism that becomes increasingly reliant upon them.
-- *The Outrunner's Handbook, vol 1.*
-
+>*The Nexus Consortium is a collection of the biggest interstellar mega-corporations in the galaxy that have joined together to achieve the shared goal of maximizing their collective profits. These companies have brought a tremendous amount of comfort and convenience to the Stardust Rhapsody, even effectively establishing the general galactic culture of consumerism that becomes increasingly reliant upon them.*
+- ***The Outrunner's Handbook, vol 1.***
 ##### Affiliated Corporations:
 - [[Interstellar News Network|Interstellar News Network (INN)]], the central news organization for the galaxy.
 - [[I.V.O. Industries]], a construction firm focusing on the general technology, industrial robotics, construction and labor markets.
