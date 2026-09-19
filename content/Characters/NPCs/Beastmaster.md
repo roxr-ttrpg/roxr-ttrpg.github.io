@@ -9,5 +9,5 @@ tags:
 
 This unique mercenary was known for his combat technique that saw him fighting alongside his two brood swarmer companions.
 
-![[Red Suns Mercenary (Beastmaster).png|300]]![[Brood Swarmer.png|253]] 
+![[Beastmaster.png|300]]![[Brood Swarmer.png|253]] 
 - **"Beastmaster"**, alongside one of his **Brood Swarmers**. 
