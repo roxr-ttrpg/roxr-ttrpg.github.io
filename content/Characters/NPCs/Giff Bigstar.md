@@ -15,17 +15,18 @@ As a part of the extended contract, Giff Bigstar opened his procurement and fenc
 
 - **[[Deez|"Deez"]]**
 
-| Item                    | Payment |
-| ----------------------- | ------- |
-| Quickblade              | +300 N  |
-| Assault Rifle           | +2000 N |
-| (4x) Heavy Laser Pistol | +2000 N |
-| 65x Bullets             | +250 N  |
-| Heavy Pistol            | +1000 N |
-|                         |         |
-| Apple Pay Request       | -1 N    |
-| Hand Cannon             | -2500 N |
-| 30x Shells              | -300 N  |
+| Item                     | Payment |
+| ------------------------ | ------- |
+| Quickblade               | +300 N  |
+| Assault Rifle            | +2000 N |
+| (4x) Heavy Laser Pistol  | +2000 N |
+| 65x Bullets              | +250 N  |
+| Heavy Pistol             | +1000 N |
+|                          |         |
+| Apple Pay Request        | -1 N    |
+| Hand Cannon              | -2500 N |
+| 30x Shells               | -300 N  |
+| Large Space Whopper Meal | -15N    |
 
 - **[[Splat]]**
 
@@ -33,6 +34,13 @@ As a part of the extended contract, Giff Bigstar opened his procurement and fenc
 | ------------ | ------- |
 | Power Glaive | -1000 N |
 | Scatterblast | -2500 N |
+| 30x Shells   | -300 N  |
+- **[[Splat]]**
+
+| Item                    | Payment |
+| ----------------------- | ------- |
+| Filament-Tether Grapnel | -2500 N |
+
 ##### Character Sheet.
 ==**Giff Bigstar's character sheet:**==
 ![[Giff Bigstar.pdf]]
