@@ -11,8 +11,8 @@ tags:
 The Outrunners are the group who were initially hired by [[Giff Bigstar]] to take down the [[Red Suns]]. 
 
 The group currently consists of 5 members:
-- [[Deez]], a Raizo **ENFORCER**
-- [[Headstrong]], an Anitron **JUGGERNAUT**
-- [[Malalim Dagat]], a Murexian **ORACLE**
-- [[Nyarle]], a Benthos **GRIDRUNNER**
-- [[Splat]], an Oozoid **SOLDIER**
+- [[Deez]], a [[Raizo]] [[Enforcer]]
+- [[Headstrong]], an [[Anitron]] [[Juggernaut]]
+- [[Malalim Dagat]], a [[Murexian]] [[Oracle]]
+- [[Nyarle]], a [[Benthos]] [[Gridrunner]]
+- [[Splat]], an [[Oozoid]] [[Soldier]]

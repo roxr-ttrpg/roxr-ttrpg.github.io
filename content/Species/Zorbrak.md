@@ -7,7 +7,7 @@ tags:
 - ***The Outrunner's Handbook, vol 1.***
 
 ##### Notable Zorbrak:
-- [[Beastmaster|"Beastmaster"]], a Zorbrak Mercenary working for the [[Red Suns]].
-- [[Giff Bigstar]], the Fixer of [[New Paradise]], and a *Bloodhound* **TRACER**.
+- [[Beastmaster|"Beastmaster"]], a Mercenary working for the [[Red Suns]].
+- [[Giff Bigstar]], the Fixer of [[New Paradise]], and a *Bloodhound* [[Tracer]].
 ##### Zorbrak Homeworlds:
 - [[Vulx]], a world haunted by its own undead world soul. Homeworld for certain groups of [[Skettik]] and Zorbrak. 

@@ -20,7 +20,7 @@ It is also known that the Red Suns are in the possession of an [[The Relic|Eldes
 - [[Red Suns Mod Shop|"The Mod Shop"]], a safehouse captained by [[Firebrand|"Firebrand"]], and used by the Red Suns to modify civilian gravcars with various weapons and armor.
 - [[Red Suns Warehouse|"The Warehouse"]], an under-construction facility nestled underneath the mountains of the badlands of  [[Kleio Prime]]. 
 ##### Key Dates:
-- `██/██/████`: The Red Suns were repeatedly attacked by [[The Outrunners]], [[Giff Bigstar]] and [[Vermina Sanguinar]] throughout the course of the calendar day;
+- `██/██/███ ██`: The Red Suns were repeatedly attacked by [[The Outrunners]], [[Giff Bigstar]] and [[Vermina Sanguinar]] throughout the course of the calendar day;
 	- `0700 HOURS`: The Red Suns blockade on [[77th Street]] was assailed by [[The Outrunners]]. One mercenary and three footsoldiers were later found dead at the scene. No civilians were harmed.
 	- `1000 HOURS`: The Red Suns safehouse, [[Red Suns Mod Shop|"The Mod Shop"]] was attacked by [[The Outrunners]]. One footsoldier was found dead at the scene, alongside a destroyed [[Maliwan Corporation|Maliwan]]-brand security bot, an injured footsoldier and an injured mercenary (identified [[Firebrand|"Firebrand"]]).
 	- `1200 HOURS`: A modified civilian gravcar operated by [[The Outrunners]], and a cruising bike carrying [[Giff Bigstar]] and [[Vermina Sanguinar]] left [[Red Suns Mod Shop|The Mod Shop]], heading to the outskirts of [[New Paradise]].

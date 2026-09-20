@@ -7,7 +7,7 @@ tags:
   - Species/Raizo
   - Class/Juggernaut
 ---
-Akira Kadashi is a [[Raizo]] [[Juggernaut]] with an unknown affiliation with the [[Red Suns]]. He was first sighted by [[The Outrunners|the Outrunners]] during their assault on the [[Red Suns Warehouse]]. Deez was the first to take note of him, seeing his tattoos that suggested a prior tie to the [[Kuzai Syndicate]]. Once the Outrunners reached one of [[Giff Bigstar|Giff Bigstar's]] safehouses, a background check was held, revealing more information about Akira.
+Akira Kadashi is a [[Raizo]] [[Juggernaut]] with an unknown affiliation with the [[Red Suns]]. He was first sighted by [[The Outrunners|the Outrunners]] during their assault at the [[Red Suns Warehouse]], on ██/██/███ ██. Deez was the first to take note of him, seeing his tattoos that suggested a prior tie to the [[Kuzai Syndicate]]. Once the Outrunners reached one of [[Giff Bigstar|Giff Bigstar's]] safehouses, a background check was held, revealing more information about Akira.
 
 Born and raised on [[Goro]], Akira was initiated into the [[Kuzai Syndicate]] from a young age. Despite years of working with the syndicate, Akira never climbed the ranks from his initial bodyguard role. Instead he was placed increasingly more important missions, missions that usually carried more danger, but he saw little recompense for this.
 

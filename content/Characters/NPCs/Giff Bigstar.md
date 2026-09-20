@@ -2,6 +2,7 @@
 tags:
   - Type/NPC
   - Pronouns/He_Him
+  - Faction/Outrunner
   - Species/Zorbrak
   - Class/Tracer
 ---

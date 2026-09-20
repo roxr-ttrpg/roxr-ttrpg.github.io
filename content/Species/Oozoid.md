@@ -7,7 +7,7 @@ tags:
 - ***The Outrunner's Handbook, vol 1.***
 
 ##### Notable Oozoids:
-- [[Firebrand|"Firebrand"]], an Oozoid Mercenary working for the [[Red Suns]]
-- [[Splat]], an *Exomech* **SOLDIER** with a history with the [[Maliwan Corporation]]. 
+- [[Firebrand|"Firebrand"]], a Mercenary working for the [[Red Suns]]
+- [[Splat]], an *Exomech* [[Soldier]] with a history with the [[Maliwan Corporation]]. 
 ##### Oozoid Homeworlds:
 - [[Tibbulus]], a gaseous world inhabited by fluffy clouds and floating cities; where the seas are made from masses of ooze. One of the many worlds under the [[Cavalon Empire]], and homeworld to many Oozoids and [[Zephursa]]. 
