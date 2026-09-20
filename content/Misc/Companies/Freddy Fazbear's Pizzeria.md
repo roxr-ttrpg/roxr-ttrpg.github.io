@@ -1,6 +1,6 @@
 ---
 tags:
-  - Type/Faction/Corporation
+  - Type/Misc/Company
   - Faction/Fazbear_Entertainment
 ---
 ![[Freddy Fazbear's Pizza Place.png]]
