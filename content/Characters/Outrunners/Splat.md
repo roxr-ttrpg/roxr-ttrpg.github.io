@@ -5,7 +5,7 @@ tags:
   - Species/Oozoid
   - Class/Soldier
 ---
-Splat is an [[Oozoid]] Exo-Mech [[Soldier]], and one of [[The Outrunners|the Outrunners]] who were hired to take down the [[Red Suns]]. She was previously hired by the [[Maliwan Corporation]], as a researcher aboard [[Research Station KlS-01]] filling positions on building and training household consumer robotics. 
+Splat is an [[Oozoid]] *Exo-Mech* [[Soldier]], and one of [[The Outrunners|the Outrunners]] who were hired to take down the [[Red Suns]]. She was previously hired by the [[Maliwan Corporation]], as a researcher aboard [[Research Station KlS-01]] filling positions on building and training household consumer robotics. 
 
 Before the Research Station crashed into [[Kleio Prime]], Splat was reassigned to Maliwan's experimental Mecha-Soldier program. Specifically, to see if her Oozoid lineage could unlock extra potential in the technology Maliwan had already created.
 
