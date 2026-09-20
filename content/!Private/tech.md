@@ -5,6 +5,8 @@ tags:
 ---
 ```
 For updating page:
+
+cd Documents/Obsidian/Hosting/quartz
 npx quartz sync --no-pull
 ```
 

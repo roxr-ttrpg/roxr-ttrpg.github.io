@@ -5,7 +5,7 @@ tags:
   - Species/Anitron
   - Class/Juggernaut
 ---
-Headstrong is an [[Anitron]] **JUGGERNAUT**, and one of [[The Outrunners|the Outrunners]] who were hired by [[Giff Bigstar]] to take down the [[Red Suns]]. Once a soldier from [[Neo-Edifex]], Headstrong was discharged for violent tendencies. Headstrong couldn't keep himself away from the action for long, and sought out the fighting pits of the Edifex Undercity, where he gained a name for himself.
+Headstrong is an [[Anitron]] [[Juggernaut]], and one of [[The Outrunners|the Outrunners]] who were hired by [[Giff Bigstar]] to take down the [[Red Suns]]. Once a soldier from [[Neo-Edifex]], Headstrong was discharged for violent tendencies. Headstrong couldn't keep himself away from the action for long, and sought out the fighting pits of the Edifex Undercity, where he gained a name for himself.
 
 >*He might not say much, but his strength is worth every note.*
 - ***[[Giff Bigstar]]'s Datapad***
