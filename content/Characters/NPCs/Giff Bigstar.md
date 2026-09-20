@@ -35,7 +35,7 @@ As a part of the extended contract, Giff Bigstar opened his procurement and fenc
 | Power Glaive | -1000 N |
 | Scatterblast | -2500 N |
 | 30x Shells   | -300 N  |
-- **[[Splat]]**
+- **[[Nyarle]]** 
 
 | Item                    | Payment |
 | ----------------------- | ------- |
