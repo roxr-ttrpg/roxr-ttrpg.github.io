@@ -22,5 +22,5 @@ While at the [[Red Suns Warehouse]], Splat discovered a [[Maliwan Corporation|Ma
 - **Splat's Exo-Mech**
 During [[The Outrunners|the Outrunner's]] assault on[[Twilyt Tower]], Splat befriended a [[Maliwan Corporation|Maliwan]] Security Bot named [[Jim, the Security Bot|Jim]].
 
->*I wasn't wrong about the craziness, but she's a real sweetheart once you get to know her. That mech of hers is a sight to behold, a great asset as long as you want to go loud. 8/10*
+>*I wasn't wrong about the craziness, but she's a real sweetheart once you get to know her. That mech of hers is a sight to behold, a great asset as long as you're willing to get loud. 8/10*
 - ***[[Giff Bigstar]], in a Post-Operation Outrunner's Guild review*** 
