@@ -16,8 +16,11 @@ Splat was one of very few known survivors of this incident.
 
 ![[Splat Torso.png|300]]![[Splat Full.png|300]]
 - **Splat**
-
 While at the [[Red Suns Warehouse]], Splat discovered a [[Maliwan Corporation|Maliwan]] robotics repair station that she had directly used in her past life. Using it, she was able to repair the Exo-Mech she previously used, which was damaged during the collapse of [[Research Station KlS-01]]. By stretching into this bespoke suit, Splat is granted a much larger size, and increased strength and combat capability to match. 
 
 ![[Splat Mecha.png|300]] 
 - **Splat's Exo-Mech**
+During [[The Outrunners|the Outrunner's]] assault on[[Twilyt Tower]], Splat befriended a [[Maliwan Corporation|Maliwan]] Security Bot named [[Jim, the Security Bot|Jim]].
+
+>*I wasn't wrong about the craziness, but she's a real sweetheart once you get to know her. That mech of hers is a sight to behold, a great asset as long as you want to go loud. 8/10*
+- ***[[Giff Bigstar]], in a Post-Operation Outrunner's Guild review*** 

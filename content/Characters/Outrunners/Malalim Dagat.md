@@ -15,3 +15,6 @@ Malalim Dagat is a [[Murexian]] serving the [[the Church of Karkosa|Church of Ka
 - **Malalim Dagat**
 
 While at the [[Red Suns Warehouse]], Malalim felt their connection with [[The Abyss|the Abyss]] suddenly deepen, and while it went unnoticed at first this connection momentarily manifested later that same day, during an altercation with [[Akira Kadashi]] and a number of [[Red Suns]] soldiers. 
+
+>*A bit unnerving to be around, but honestly they get work done precise where it matters. "Crime Scenes" clear themselves up with this one, but their allegiance is hard to work around. 8/10*
+- ***[[Giff Bigstar]], in a Post-Operation Outrunner's Guild review*** 

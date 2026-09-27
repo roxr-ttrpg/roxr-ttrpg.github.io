@@ -14,3 +14,6 @@ tags:
 - **"Deez"**
 
 Despite now being closer to organized crime than street gangs, growing up alongside the [[Chemtek Revolution]] movements of [[Ferrox]] led █████ towards adopting the scrappier, more improvised brawling fighter styles of the junkyard planet. 
+
+>*This kid confuses me greatly. Asked me for a loan for a "19 dollar Fortnite card" then brought back 5000 notes in merchandise not 2 hours later. A real puzzle of a lass. 5/10*
+- ***[[Giff Bigstar]], in a Post-Operation Outrunner's Guild review*** 

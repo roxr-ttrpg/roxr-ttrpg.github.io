@@ -14,3 +14,6 @@ Headstrong is an [[Anitron]] *Rampager* [[Juggernaut]], and one of [[The Outrunn
 - **Headstrong**
 
 Headstrong has become particularly notable for displays of inhuman strength during combat, far exceeding even the physical limits of his own [[Anitron]] model. 
+
+>*You get what it says on the tin (forgive the pun). Doesn't get much simpler than this. 10/10*
+- ***[[Giff Bigstar]], in a Post-Operation Outrunner's Guild review*** 

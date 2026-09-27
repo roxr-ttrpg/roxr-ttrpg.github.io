@@ -12,3 +12,6 @@ Nyarle is a [[Benthos]] *Hypercoder* [[Gridrunner]], and one of [[The Outrunners
 
 ![[Nyarle.png|300]]
 - **Nyarle**
+
+>*One of the best Gridrunners I've seen since I sat at the other end of the bargaining table. I don't need to rate her 'cause she's already got a steady employment under yours truly.*
+- ***[[Giff Bigstar]], in a Post-Operation Outrunner's Guild review*** 
